@@ -1,25 +1,25 @@
-<h1 align="center">Merhaba, ben Kren! 👋</h1>
-<h3 align="center">Siber güvenlik ve yazılım geliştirme tutkunu bir geliştiriciyim.</h3>
+<h1 align="center">Hi, I'm Kren! 👋</h1>
+<h3 align="center">A passionate developer in cybersecurity and software development.</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Chipsy99&label=Ziyaretçi%20Sayısı&color=0e75b6&style=flat" alt="Chipsy99" />
+  <img src="https://komarev.com/ghpvc/?username=Chipsy99&label=Profile%20Views&color=0e75b6&style=flat" alt="Chipsy99" />
 </p>
 
 ---
 
-## 🚀 Hakkımda
-Ben bir **Penetrasyon Testi Uzmanı** ve **Full-Stack Yazılım Geliştiricisi** olarak, siber güvenlik, otomasyon ve API geliştirme alanlarında deneyim sahibiyim. Oyun programcılığıyla ilgileniyor ve güvenlik açıklarını tespit etmek için çeşitli araçlar geliştiriyorum.
+## 🚀 About Me
+I am a **Penetration Testing Expert** and **Full-Stack Software Developer** with experience in cybersecurity, automation, and API development. I am interested in game programming and developing tools to detect security vulnerabilities.
 
-- 🔭 Şu anda üzerinde çalışıyorum: **Oyun güvenliği ve API geliştirme projeleri**
-- 🌱 Şu anda öğreniyorum: **Rust ve Go dilleri**
-- 🤝 Yardım etmek istediğim konular: **Siber güvenlik projeleri ve otomasyon araçları**
-- 💬 Bana sormaktan çekinmeyin: **Python, Node.js, AutoIt, ve API güvenliği**
-- 📫 Bana ulaşın: **https://kgt.one**
-- ⚡ İlginç bir şey: **Geliştirdiğim araçlarla oyunlarda hile tespiti üzerine çalışıyorum.**
+- 🔭 I’m currently working on: **Game security and API development projects**
+- 🌱 I’m currently learning: **Rust and Go languages**
+- 🤝 I’m looking to collaborate on: **Cybersecurity projects and automation tools**
+- 💬 Ask me about: **Python, Node.js, AutoIt, and API security**
+- 📫 How to reach me: **https://kgt.one**
+- ⚡ Fun fact: **I’m working on tools for cheat detection in games.**
 
 ---
 
-## 🛠️ Kullandığım Teknolojiler
+## 🛠️ Technologies I Use
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node-dot-js&logoColor=white" />
@@ -31,7 +31,7 @@ Ben bir **Penetrasyon Testi Uzmanı** ve **Full-Stack Yazılım Geliştiricisi**
 
 ---
 
-## 📊 GitHub İstatistiklerim
+## 📊 GitHub Stats
 
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Chipsy99&show_icons=true&theme=radical" alt="Chipsy99" />
@@ -44,7 +44,7 @@ Ben bir **Penetrasyon Testi Uzmanı** ve **Full-Stack Yazılım Geliştiricisi**
 
 ---
 
-## 🏆 GitHub Başarılarım
+## 🏆 GitHub Achievements
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Chipsy99&theme=radical&row=1&column=7" alt="Chipsy99" />
@@ -52,14 +52,13 @@ Ben bir **Penetrasyon Testi Uzmanı** ve **Full-Stack Yazılım Geliştiricisi**
 
 ---
 
-## 📫 Bana Ulaşın
+## 📫 Contact Me
 
-- **Web Sitem**: [kgt.one](https://kgt.one)
-- **Discord**: hrt.rl
-- **E-posta**: hrt.rl@kgt.one
+- **Website**: [kgt.one](https://kgt.one)
+- **Discord**: [Click here!](https://discord.com/users/1143203604447109202)
 
 ---
 
 <p align="center">
-  <b>Her gün yeni bir şeyler öğrenmek ve projelerimde ilerleme kaydetmek için buradayım. Bağlanalım!</b>
+  <b>I’m here to learn something new every day and make progress in my projects. Let's connect!</b>
 </p>
