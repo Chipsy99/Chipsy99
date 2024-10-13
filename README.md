@@ -1,8 +1,8 @@
-<h1 align="center">Merhaba, ben hrt.rl! 👋</h1>
+<h1 align="center">Merhaba, ben Kren! 👋</h1>
 <h3 align="center">Siber güvenlik ve yazılım geliştirme tutkunu bir geliştiriciyim.</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=hrt-rl&label=Ziyaretçi%20Sayısı&color=0e75b6&style=flat" alt="hrt-rl" />
+  <img src="https://komarev.com/ghpvc/?username=Chipsy99&label=Ziyaretçi%20Sayısı&color=0e75b6&style=flat" alt="Chipsy99" />
 </p>
 
 ---
@@ -14,7 +14,7 @@ Ben bir **Penetrasyon Testi Uzmanı** ve **Full-Stack Yazılım Geliştiricisi**
 - 🌱 Şu anda öğreniyorum: **Rust ve Go dilleri**
 - 🤝 Yardım etmek istediğim konular: **Siber güvenlik projeleri ve otomasyon araçları**
 - 💬 Bana sormaktan çekinmeyin: **Python, Node.js, AutoIt, ve API güvenliği**
-- 📫 Bana ulaşın: **hrt.rl@kgt.one**
+- 📫 Bana ulaşın: **https://kgt.one**
 - ⚡ İlginç bir şey: **Geliştirdiğim araçlarla oyunlarda hile tespiti üzerine çalışıyorum.**
 
 ---
@@ -34,12 +34,12 @@ Ben bir **Penetrasyon Testi Uzmanı** ve **Full-Stack Yazılım Geliştiricisi**
 ## 📊 GitHub İstatistiklerim
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=hrt-rl&show_icons=true&theme=radical" alt="hrt-rl" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=hrt-rl&theme=radical" alt="hrt-rl" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Chipsy99&show_icons=true&theme=radical" alt="Chipsy99" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Chipsy99&theme=radical" alt="Chipsy99" />
 </p>
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hrt-rl&layout=compact&langs_count=8&theme=radical" alt="hrt-rl" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chipsy99&layout=compact&langs_count=8&theme=radical" alt="Chipsy99" />
 </p>
 
 ---
@@ -47,7 +47,7 @@ Ben bir **Penetrasyon Testi Uzmanı** ve **Full-Stack Yazılım Geliştiricisi**
 ## 🏆 GitHub Başarılarım
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=hrt-rl&theme=radical&row=1&column=7" alt="hrt-rl" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Chipsy99&theme=radical&row=1&column=7" alt="Chipsy99" />
 </p>
 
 ---
